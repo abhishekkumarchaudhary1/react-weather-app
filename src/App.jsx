@@ -18,7 +18,7 @@ const App = () => {
   return (
     <>
       <h1 className='text-center font-bold my-4'>Weather App  by Abhishek</h1>
-      <a href="" className='bg-slate-500 text-white text-center p-3 flex justify-around items-center rounded-sm mx-auto my-4 w-[100px] hover:opacity-80'><FaGithub />GitHub</a>
+      <a href="https://github.com/abhishekkumarchaudhary1/react-weather-app" className='bg-slate-500 text-white text-center p-3 flex justify-around items-center rounded-sm mx-auto my-4 w-[100px] hover:opacity-80'><FaGithub />GitHub</a>
     <section className="searchSection bg-white drop-shadow-md w-[80%] max-w-96 mx-auto p-5 rounded-md">
 
       <form
